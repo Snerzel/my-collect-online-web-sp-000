@@ -1,3 +1,3 @@
 def my_collect(array)
-  collection = array.spilt(" ")
+  array.spilt(" ")
 end
